@@ -1,4 +1,4 @@
 ratel
 =====
 
-Savagely attacking MOL data, crazy nastyass style
+Savagely processing data assets into CartoDB.
